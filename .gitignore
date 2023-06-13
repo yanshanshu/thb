@@ -15,6 +15,7 @@
 local.properties
 ### Android template
 # Built application files
+# Built application files
 *.apk
 *.aar
 *.ap_
